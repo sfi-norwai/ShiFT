@@ -22,7 +22,7 @@ Temporal View Construction for Time Series Contrastive Learning
 
 This repository contains the official Pytorch implementation of the "[**Learning by Shifting (ShiFT)**]" (ECML 2026), a simple, deterministic view construction to learn strong representations for time-series classification.
 
-![ShiFT](./visuals/ShiFT_Ranks.pdf?raw=true "Title")
+![ShiFT](./visuals/ShiFT_Ranks.png?raw=true "Title")
 
 ## Data
 
@@ -76,7 +76,7 @@ python pretrain.py SimMTM Skoda -p configs/Skodaconfig.yml -s 1 --evaluate super
 View construction strategies for contrastive learning in
 time serie
 
-![Views Visualization](./visuals/ShiFT_view.pdf?raw=true "Title")
+![Views Visualization](./visuals/ShiFT_view.png?raw=true "Title")
 
 
 ## Acknowledgements

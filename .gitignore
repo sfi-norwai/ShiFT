@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.conda/
+
+# Logs & experiment tracking
+logs/
+runs/
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model outputs
+checkpoints/
+models/*.pt
+models/*.pth
+results/
+
+# Temporary files
+*.log
+*.tmp
+
