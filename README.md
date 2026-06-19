@@ -1,6 +1,23 @@
 <h1 align="center">ShiFT</h1>
-<h2 align="center">Learning by Shifting: \\
-    Temporal View Construction for Time Series Contrastive Learning</h2>
+<h2 align="center">
+Learning by Shifting:<br>
+Temporal View Construction for Time Series Contrastive Learning
+</h2>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/xxx">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-xxx-b31b1b.svg">
+  </a>
+  <img alt="License" src="https://img.shields.io/github/license/sfi-norwai/ShiFT">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sfi-norwai/ShiFT">
+  <img alt="Stars" src="https://img.shields.io/github/stars/sfi-norwai/ShiFT?style=social">
+</p>
+
+<p align="center">
+  <a href="https://ecmlpkdd.org/2026/">
+    <img alt="ECML 2026 Accepted" src="https://img.shields.io/badge/Accepted%20at-ECML%202026-blueviolet">
+  </a>
+</p>
 
 
 This repository contains the official Pytorch implementation of the "[**Learning by Shifting (ShiFT)**]" (ECML 2026), a simple, deterministic view construction to learn strong representations for time-series classification.
