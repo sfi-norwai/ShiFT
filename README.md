@@ -102,6 +102,6 @@ If you use **ShiFT** in your research, please consider citing it as follows:
 @inproceedings{shift2026,
   title     = {Learning by Shifting: Temporal View Construction for Time Series Contrastive Learning},
   author    = {Abdul-Kazeem Shamba and Kerstin Bach and Gavin Taylor},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  booktitle = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
   year      = {2026}
 }
