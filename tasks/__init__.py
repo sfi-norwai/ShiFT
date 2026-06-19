@@ -1,0 +1,10 @@
+from .supervised import supervised_evaluation
+from .supervisedNp import supervised_evaluation_ponly, supervised_evaluation_pfine, supervised_evaluation_ponly_block
+from .supervisedML import minirocket_signal_evaluation, raw_signal_evaluation
+from .supervisedNp import clustering_evaluation_ponly, clustering_evaluation_ponly_block
+from .clustering import clustering_evaluation
+from .semi_supervised import semi_supervised_evaluation
+from .transfer_learning import transfer_learning_evaluation
+from .forecasting import eval_forecasting
+
+# from .anomaly_detection import eval_anomaly_detection, eval_anomaly_detection_coldstart
