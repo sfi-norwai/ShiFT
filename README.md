@@ -5,8 +5,8 @@ Temporal View Construction for Time Series Contrastive Learning
 </h2>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxx">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-xxx-b31b1b.svg">
+  <a href="https://arxiv.org/abs/2606.21957">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2606.21957-b31b1b.svg">
   </a>
   <img alt="License" src="https://img.shields.io/github/license/sfi-norwai/ShiFT">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sfi-norwai/ShiFT">
