@@ -15,7 +15,7 @@ Temporal View Construction for Time Series Contrastive Learning
 
 <p align="center">
   <a href="https://ecmlpkdd.org/2026/">
-    <img alt="ECML 2026 Accepted" src="https://img.shields.io/badge/Accepted%20at-ECML%202026-blueviolet">
+    <img alt="ECML 2026 Accepted" src="https://img.shields.io/badge/Accepted%20at-ECML%20PKDD%202026-blueviolet">
   </a>
 </p>
 
