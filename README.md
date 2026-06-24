@@ -20,7 +20,7 @@ Temporal View Construction for Time Series Contrastive Learning
 </p>
 
 
-This repository contains the official Pytorch implementation of the "[**Learning by Shifting (ShiFT)**]" (ECML 2026), a simple, deterministic view construction to learn strong representations for time-series classification.
+This repository contains the official Pytorch implementation of the "[**Learning by Shifting (ShiFT)**]" (ECML PKDD 2026), a simple, deterministic view construction to learn strong representations for time-series classification.
 
 ![ShiFT](./visuals/Speed_Ranks.png?raw=true "Title")
 
